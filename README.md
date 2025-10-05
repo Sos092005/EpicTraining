@@ -1,1 +1,1 @@
-# EpitechTraining
+# EpicTraining
