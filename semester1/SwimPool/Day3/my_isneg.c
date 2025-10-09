@@ -1,3 +1,11 @@
+ /*
+ ** EPITECH PROJECT, 2023
+ ** Function my_isneg
+ ** [File description:]
+ ** Function to check if a number is negative(N) 
+ ** or positive(P)
+ */
+
 #include <stdio.h>
 
 int my_isneg (int n) // Function to check if a number is negative(N) or positive(P)
