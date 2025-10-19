@@ -1,9 +1,10 @@
 #include <stdio.h>
+#include "my_putchar.c"
 
 int my_print_digits(void) // Function to print the english alphabet in lowercase from a to z
 {
     for (int i = 0 ; i < 10; i++) 
-        {printf("%d", i);}
+        my_putchar('0' + i);
     
     return 0;
 }   
